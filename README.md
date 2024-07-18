@@ -60,13 +60,4 @@ As a dedicated Node.js backend engineer with 3.5 years of experience, I speciali
 
 </td></tr></table>  
 
-<br/>  
 
-## Connect with me:
-<div align="center">
-<a href="https://linkedin.com/in/taras-ivaniuk-3293531ba/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-
-<br/> 
