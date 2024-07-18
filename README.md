@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 35%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 45%" />
 </div> 
 
 ### <div align="center">I'm Taras, a Node.js Backend Engineer 👨‍💻</div>
@@ -65,7 +65,7 @@ As a dedicated Node.js backend engineer with 3.5 years of experience, I speciali
 
 
 ## Github Stats:
-<div align="center">
+<div align="center" style="width: 45%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=256Taras&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
