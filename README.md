@@ -61,19 +61,6 @@ As a dedicated Node.js backend engineer with 3.5 years of experience, I speciali
 </td></tr></table>  
 
 <br/>  
- 
-
-
-## Github Stats:
-<div align="center" style="width: 45%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=256Taras&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=256Taras&show_icons=true&count_private=true&theme=radical)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=256Taras&theme=radical)
-
-</div>
 
 ## Connect with me:
 <div align="center">
