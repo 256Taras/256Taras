@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Taras, a Node.js Backend Engineer 👨‍💻</div>
 
-As a dedicated Node.js backend engineer with 3.5 years of experience, I specialize in developing high-performance, scalable server-side applications.
+As a dedicated Node.js backend engineer with 4.5 years of experience, I specialize in developing high-performance, scalable server-side applications.
 
 - 🌱 I’m currently learning Kubernetes and ElasticSearch
 - ❓ Ask me about anything related to Node.js and related technologies
