@@ -2,11 +2,10 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 45%" />
 </div>
 
-### <div align="center">I'm Taras, a Full-Stack Engineer & Team Lead 👨‍💻</div>
+### <div align="center">I'm Taras, a Full-Stack Engineer👨‍💻</div>
 
 Full-stack engineer with 5.5+ years of experience building scalable web applications. Currently leading a development team, focusing on clean architecture, practical solutions, and mentoring developers.
 
-- 🔭 Leading development of LMS systems
 - 🏗️ Passionate about clean architecture and monorepo approaches
 - 🌱 Currently deepening knowledge in Kubernetes and ElasticSearch
 - 💡 Advocate for practical solutions over over-engineering
