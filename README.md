@@ -79,11 +79,11 @@ Full-stack engineer with 5.5+ years of experience building scalable web applicat
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=256Taras&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=256Taras&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -105,5 +105,5 @@ Full-stack engineer with 5.5+ years of experience building scalable web applicat
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=256Taras&style=flat-square&color=blue" alt="Profile Views" />
 </div>
